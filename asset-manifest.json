@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/kushal-rajkarnikar/news-react/static/css/main.3280471d.css",
+    "main.js": "/kushal-rajkarnikar/news-react/static/js/main.28b6655f.js",
+    "static/js/787.998b4c01.chunk.js": "/kushal-rajkarnikar/news-react/static/js/787.998b4c01.chunk.js",
+    "index.html": "/kushal-rajkarnikar/news-react/index.html",
+    "main.3280471d.css.map": "/kushal-rajkarnikar/news-react/static/css/main.3280471d.css.map",
+    "main.28b6655f.js.map": "/kushal-rajkarnikar/news-react/static/js/main.28b6655f.js.map",
+    "787.998b4c01.chunk.js.map": "/kushal-rajkarnikar/news-react/static/js/787.998b4c01.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3280471d.css",
+    "static/js/main.28b6655f.js"
+  ]
+}
