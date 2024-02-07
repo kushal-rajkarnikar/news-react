@@ -17,7 +17,8 @@ function App() {
   React.useEffect(() => {
     setLoading(true);
     fetch(
-      "https://newsapi.org/v2/top-headlines?sources=bbc-news&apiKey=" + API_KEY
+      "https://newsapi.org/v2/top-headlines?sources=techcrunch&apiKey=" +
+        API_KEY
     )
       .then((res) => res.json())
       .then((data) => setNews(data.articles))
